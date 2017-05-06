@@ -1,5 +1,5 @@
 ---
-layout: Trees and herb in the backyard
+layout: posts
 title: Trees and herb in the backyard
 ---
 
